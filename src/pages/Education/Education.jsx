@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Information technology",
+      school: "Institute Sains & Business Atma Luhur",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2017-2021",
+      achievements: ["GPA: 3.33", "Subject: Computer Science"],
+      skills: ["Mathematics", "Computing", "Networking", "Developers"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+      "I focus on software development across both web and mobile platforms, with an emphasis on practical implementation, system design, and modern development methodologies.",
     },
     {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      degree: "(Cisco CCNA & CCNP)",
+      school: "Netacad Academy",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2021-2022",
+      achievements: ["GPA: 8.25", "Subject: Network"],
+      skills: ["Dynamic Routing", "Core IP Address", "DNS", "Firewall"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Configures dynamic routing, core IP addressing, DNS services, and firewalls to maintain secure, stable, and efficient network infrastructure operations.",
     },
   ];
 
